@@ -1,0 +1,12 @@
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.deps.json
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.dll
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\bin\Debug\net5.0\ref\HotelFinder.Entities.dll
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\bin\Debug\net5.0\HotelFinder.Entities.pdb
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.csproj.AssemblyReference.cache
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.AssemblyInfo.cs
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.dll
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\ref\HotelFinder.Entities.dll
+C:\Users\Abdulrahman Alothman\Desktop\Web Api öğrenme\2. Ders\HotelFinder\HotelFinder.Entities\obj\Debug\net5.0\HotelFinder.Entities.pdb
