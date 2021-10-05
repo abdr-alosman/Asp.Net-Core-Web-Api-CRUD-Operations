@@ -24,7 +24,7 @@
             <param name='id'></param>
             <returns></returns>
         </member>
-        <member name="M:HotelFinder.Api.Controllers.HotelsController.Post(HotelFinder.Entities.Hotel)">
+        <member name="M:HotelFinder.Api.Controllers.HotelsController.CreateHotel(HotelFinder.Entities.Hotel)">
             <summary>
             Create New Hotel
             </summary>
